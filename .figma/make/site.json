@@ -1,0 +1,13 @@
+{
+  "description": "This web application enhances the visual appeal and user experience of websites, showcasing high-quality products effectively for professionals and businesses.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
